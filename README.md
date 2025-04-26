@@ -17,12 +17,12 @@ This project is an **interactive HR Analytics Dashboard** created using **Power 
 
 ## 📁 Project Structure
 powerbi-hr-dashboard/ 
-├── HR_Analytics_Dashboard.pbix # Power BI report file 
+├── HR_Analytics_Dashboard.pbix 
 ├── data/ 
-│ └── hr_data.csv # Dataset used (if shareable) 
+│ └── hr_data.csv 
 ├── screenshots/ 
-│ └── dashboard_view.jpg # Dashboard preview image 
-└── README.md # Project documentation
+│ └── dashboard_view.jpg 
+└── README.md 
 
 ## 📦 Dataset
 
