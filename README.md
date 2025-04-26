@@ -15,12 +15,6 @@ This project is an **interactive HR Analytics Dashboard** created using **Power 
 - Gender-based attrition analysis
 - Department-level filters for drill-down
 
-## 🖼️ Dashboard Preview
-
-![HR Analytics Dashboard](screenshots/dashboard_view.jpg)
-
-> The dashboard allows HR teams to quickly identify high-attrition areas and potential workforce risks across departments and job levels.
-
 ## 📁 Project Structure
 powerbi-hr-dashboard/ 
 ├── HR_Analytics_Dashboard.pbix # Power BI report file 
